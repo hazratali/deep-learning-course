@@ -13,13 +13,11 @@ Semester | Spring 2026
 Webpage | [Stirling webpage](https://www.stir.ac.uk/people/1987004)
 
 # Weekly schedule
-Week | Topics  | Remarks
+Week | Lecture Topics  | Practical
 ----|----|---|
-Week 1 | Introduction to deep learning. Course logistics | Pracitcal 0 on Pytorch tensors
+Week 1 | Course logistics and Introduction to deep learning  | Pracitcal 0 on Pytorch tensors
 Week 2 | Neural Networks and Classification | Practical 1 on Pytorch workflow with example on linear regression
 Week 3 | Convolutional Neural Networks | Practical 2 on Neural Networks
 Week 4 | Some common CNNs, training of CNNs | Practical 3 on Convolutional Neural Networks
 
 
-# Acknowledgements
-This course acknowledges the teaching material of CS231n taught at Stanford University. The practical sessions borrows material from Daniel Bourke's github repo. 
