@@ -6,15 +6,11 @@ The repository proivdes weekly schedule of lectures along with the practical ses
 Practicals will be added as the course propgresses.
 
 # Instructor
-----|-----|
 Instructor | Dr. Hazrat Ali
 ----|-----|
 Institute | The University of Stirling, UK
-----|-----|
 Semester | Spring 2026
-----|-----|
 Webpage | [Stirling webpage](https://www.stir.ac.uk/people/1987004)
-----|-----|
 
 # Weekly schedule
 Week | Topics  | Remarks
