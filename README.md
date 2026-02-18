@@ -17,7 +17,7 @@ Week | Lecture Topics  | Practical
 ----|----|---|
 Week 1 | Course logistics and Introduction to deep learning  | Pracitcal 0 on Pytorch tensors
 Week 2 | Neural Networks and Classification | Practical 1 on Pytorch workflow with example on linear regression
-Week 3 | Convolutional Neural Networks | Practical 2 on Neural Networks
-Week 4 | Some common CNNs, training of CNNs | Practical 3 on Convolutional Neural Networks
-
+Week 3 | Industry talk  | Practical 2 on Neural Networks
+Week 4 | Convolutional Neural Networks | Practical 3 on Convolutional Neural Networks
+Week 5 | Some common CNNs, training of CNNs | Practical 4 on Custom Dataset for deep learning and data augmentation
 
