@@ -20,4 +20,5 @@ Week 2 | Neural Networks and Classification | Practical 1 on Pytorch workflow wi
 Week 3 | Industry talk  | Practical 2 on Neural Networks
 Week 4 | Convolutional Neural Networks | Practical 3 on Convolutional Neural Networks
 Week 5 | Some common CNNs, training of CNNs | Practical 4 on Custom Dataset for deep learning and data augmentation
+Week 6 | Attention and Transformers | Practical on Transfer Learning
 
