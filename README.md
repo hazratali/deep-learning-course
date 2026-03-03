@@ -23,9 +23,9 @@ Week 5 | Some common CNNs, training of CNNs | Practical 4 on Custom Dataset for 
 Week 6 | Attention and Transformers | Practical on Transfer Learning
 
 # TO DO
-[] Add segmentation notebook
-[] Add lecture on transformers
-[] Add practical on transformers
-[] Add lecture on Generative models
-[] Add practical on generative models 
+- [ ] Add segmentation notebook
+- [ ] Add lecture on transformers
+- [ ] Add practical on transformers
+- [ ] Add lecture on Generative models
+- [ ] Add practical on generative models 
 
