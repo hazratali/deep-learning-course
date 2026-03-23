@@ -15,17 +15,17 @@ Webpage | [Stirling webpage](https://www.stir.ac.uk/people/1987004)
 # Weekly schedule
 Week | Lecture Topics  | Practical
 ----|----|---|
-Week 1 | Course logistics and Introduction to deep learning  | Pracitcal 0 on Pytorch tensors
-Week 2 | Neural Networks and Classification | Practical 1 on Pytorch workflow with example on linear regression
-Week 3 | Industry talk  | Practical 2 on Neural Networks
-Week 4 | Convolutional Neural Networks | Practical 3 on Convolutional Neural Networks
-Week 5 | Some common CNNs, training of CNNs | Practical 4 on Custom Dataset for deep learning and data augmentation
-Week 6 | Attention and Transformers | Practical on Transfer Learning
+Week 1 | Course logistics and Introduction to deep learning  | Pracitcal 1 on Pytorch tensors
+Week 2 | Neural Networks and Classification | Practical 2 on Pytorch workflow with example on linear regression
+Week 3 | Industry talk  | Practical 3 on Neural Networks
+Week 4 | Convolutional Neural Networks | Practical 4 on Convolutional Neural Networks
+Week 5 | Some common CNNs, training of CNNs, Segmentation | Practical 5 on Custom Dataset for deep learning and data augmentation
+Week 6 | Attention and Transformers | Practical 6 on Segmentation Transfer Learning
+Week 7 | Attention and Transformers - part 2 | Practical 7 on Transfer Learning
+Week 8 | Generative Advesarial Networks | Practical 8 on text generation using GPT
+Week 9 | Generative Advesarial Networks | Practical 9 on text generation using GPT
+Week 10 | Wrap-up | Practical 10 on GANs
 
 # TO DO
-- [ ] Add segmentation notebook
-- [ ] Add lecture on transformers
-- [ ] Add practical on transformers
-- [ ] Add lecture on Generative models
-- [ ] Add practical on generative models 
+
 
