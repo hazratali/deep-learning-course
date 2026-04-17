@@ -24,7 +24,7 @@ Week 6 | Attention and Transformers | Practical 6 on Segmentation Transfer Learn
 Week 7 | Attention and Transformers - part 2 | Practical 7 on Transfer Learning
 Week 8 | Generative Advesarial Networks | Practical 8 on text generation using GPT
 Week 9 | Generative Advesarial Networks | Practical 9 on text generation using GPT
-Week 10 | Wrap-up | Practical 10 on GANs
+Week 10 | Ethics of AI and Wrap-up | Practical 10 on GANs
 
 # TO DO
 
